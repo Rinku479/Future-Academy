@@ -4,7 +4,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #F0EBE3 !important;
+    background-color: rgb(191, 136, 241) !important;
 }
 
 .slider-img img {
@@ -21,16 +21,12 @@ body {
     background-color: #F4FAFD;
 }
 
-.social-media-icon {
-    display: flex;
-    justify-content: center;
-
+footer {
+    width: 100%;
+    height: auto;
+    background-color: black;
 }
 
-.social-media-icon a {
-
-    margin: 0 30px;
-    font-size: 30px;
-    color: rgb(27, 211, 150);
-
+footer p {
+    color: #E8E8E8;
 }
